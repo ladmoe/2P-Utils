@@ -1,0 +1,9 @@
+{
+  "text.twoplayer.sample": "sample text",
+  "text.twoplayer.buttons.test": [
+    "Button ",
+    {"text": "One!", "color":  "#FF5733"}
+  ],
+  "text.twoplayer.hudelement": "Hud title"
+
+}

@@ -1,0 +1,38 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "twoplayer_utils"
+version = "${version}"
+displayName = "2P Utils"
+authors = "Lad"
+description = '''
+A general-purpose mod for 2 player parkour on Hypixel
+'''
+#logoFile = ""
+
+[[dependencies.twoplayer_utils]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.twoplayer_utils]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.3,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.twoplayer_utils]]
+modId = "architectury"
+type = "required"
+versionRange = "[14.0.4,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "twoplayer_utils.mixins.json"

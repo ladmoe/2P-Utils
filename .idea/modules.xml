@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/moe.lad.twoplayer_utils.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/moe.lad.twoplayer_utils.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/moe.lad.twoplayer_utils.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/moe.lad.twoplayer_utils.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/moe.lad.twoplayer_utils.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/moe.lad.twoplayer_utils.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/moe.lad.twoplayer_utils.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/moe.lad.twoplayer_utils.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/moe.lad.twoplayer_utils.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/moe.lad.twoplayer_utils.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/moe.lad.twoplayer_utils.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/moe.lad.twoplayer_utils.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/twoplayer_utils.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/twoplayer_utils.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/twoplayer_utils.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/twoplayer_utils.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/twoplayer_utils.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/twoplayer_utils.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/twoplayer_utils.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/twoplayer_utils.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/twoplayer_utils.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/twoplayer_utils.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/twoplayer_utils.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/twoplayer_utils.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/twoplayer_utils.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/twoplayer_utils.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>

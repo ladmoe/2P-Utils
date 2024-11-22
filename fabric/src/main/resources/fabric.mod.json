@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "twoplayer_utils",
+  "version": "${version}",
+  "name": "2P Utils",
+  "description": "A general-purpose mod for 2 player parkour on Hypixel",
+  "authors": ["Lad"],
+  "contact": {
+    "homepage": ""  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/twoplayer_utils/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "moe.lad.fabric.Twoplayer_utilsFabric"
+    ],
+    "client": [
+      "moe.lad.fabric.client.Twoplayer_utilsFabricClient"
+    ]
+  },
+  "mixins": [
+    "twoplayer_utils.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.3",
+    "java": ">=21"
+    ,"architectury": ">=14.0.4"
+    ,"fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
